@@ -35,6 +35,7 @@ h3{
     font-size: 19px;
     margin-top: 40px;
     margin-bottom: 0;
+    min-height: 160px;
 }
 .btn{
     cursor: pointer;
@@ -47,7 +48,6 @@ h3{
     color: #fff;
     display: flex;
     margin: 0 auto;
-    margin-top: 100px;
     transition-duration: 0.5s;
 }
 .btn:active {
